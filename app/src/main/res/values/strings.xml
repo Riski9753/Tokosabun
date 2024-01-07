@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Tokosabun</string>
+    <string name="nama">nama</string>
+    <string name="desk">Deskripsi</string>
+    <string name="harga">harga</string>
+    <string name="setok">setok</string>
+    <string name="back_button">Kembali</string>.
+    <string name="confirm">Konfirmasi</string>.
+    <string name="next">Lanjut</string>
+    <string name="konsen">Konsentrasi</string>.
+    <string name="tambah"></string>.
+    <string name="updat">edit</string>.
+    <string name="cancel">Batal</string>.
+   
+</resources>
